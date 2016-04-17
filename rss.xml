@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Walker]]></title>
         <description><![CDATA[Walker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/walker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 23:13:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 23:38:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/walker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/287437f3-2fd0-4620-bdee-f4e8071563b9.jpg">]]></description>
+            <link>https://thegrid.ai/walker/5ab3dfd2-48dd-4e7c-bf56-1e37484a49a0/index.html</link>
+            <guid isPermaLink="false">5ab3dfd2-48dd-4e7c-bf56-1e37484a49a0</guid>
+            <pubDate>Sun, 17 Apr 2016 23:37:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SODA San Juan, Puerto Rico]]></title>
             <description><![CDATA[<article><h1>SODA San Juan, Puerto Rico</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0f27b091eabc7a1146d1a5e901db11921d1c411.jpg"></article>]]></description>
-            <link>undefined2f830882-1076-44be-8362-f082303833e2/index.html</link>
+            <link>https://thegrid.ai/walker/2f830882-1076-44be-8362-f082303833e2/index.html</link>
             <guid isPermaLink="false">2f830882-1076-44be-8362-f082303833e2</guid>
             <pubDate>Sun, 17 Apr 2016 23:13:57 GMT</pubDate>
         </item>
