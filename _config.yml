@@ -1,0 +1,28 @@
+name: Walker
+favicon: null
+layout_spectrum: 0.5355486976914108
+typography_spectrum: 0.7997060257475823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7000377532094717
+  lightness: 0.715218989411369
+  saturation: 0.4281855814624578
+  rhythmicContrast: 0.2259143718983978
+purpose: []
